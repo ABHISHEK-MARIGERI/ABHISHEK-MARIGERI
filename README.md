@@ -1,22 +1,47 @@
-<h1 align="center">Hi 👋, I'm Abhishek Marigeri</h1>
+<!-- ===================== TOP HEADER SECTION ===================== -->
+
+<p align="center">
+  <img src="https://github.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/blob/main/pic.jpg" width="170" style="border-radius:50%;" alt="Abhishek Marigeri"/>
+</p>
+
+<h1 align="center">Hi there, I'm Abhishek Marigeri 👋</h1>
+
 <h3 align="center">Data Science & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekmarigeri&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekmarigeri" />
+  <a href="mailto:abhishekmarigeri9676@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/abhishek-marigeri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/ABHISHEK-MARIGERI">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="Abhishek_Marigeri_CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CGPA-8.20-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVJ%20College%20of%20Engineering-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bengaluru-Karnataka-green?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Bachelor of Engineering in **Electronics & Communication Engineering** at MVJ College of Engineering  
-- 📊 **Data Science & ML Enthusiast** with hands-on experience in Python, SQL, Machine Learning, and EDA  
-- 🔍 Skilled in building predictive models, feature engineering, and model evaluation  
+- 🎓 B.E. in **Electronics & Communication Engineering** @ MVJ College of Engineering  
+- 📊 **Data Science & Machine Learning Enthusiast**  
+- 🔍 Skilled in **Python, SQL, Machine Learning, EDA, Feature Engineering**  
 - 💼 **Data Science Intern at Shamgar Software Solutions**  
 - 🌱 Currently exploring **Advanced ML & Data Analytics**  
-- 📫 Reach me at: **abhishekmarigeri9676@gmail.com**
-
-*(Summary based on CV)* :contentReference[oaicite:1]{index=1}
+- 📫 Email: **abhishekmarigeri9676@gmail.com**
 
 ---
 
@@ -37,16 +62,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Data Tools
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-*(Skills from CV)* :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -55,77 +74,49 @@
 ### 🏢 Data Science Intern — Shamgar Software Solutions  
 **Oct 2025 – Present**
 
-- Performed EDA and feature engineering on real-world datasets  
+- Performed EDA & feature engineering on real-world datasets  
 - Tuned ML models using hyperparameter optimization  
-- Built and optimized end-to-end ML pipelines in Agile environment  
-
-:contentReference[oaicite:3]{index=3}
+- Built end-to-end ML pipelines in Agile environment  
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🔹 Bridge Health Monitoring & Crack Detection
-- ML-based system using accelerometer data & Linear Regression  
-- Camera module + Gemini API for real-time crack detection  
-- Achieved **2× higher detection accuracy**  
+- ML-based pitch-angle misalignment prediction  
+- Real-time crack detection using camera + Gemini API  
+- Achieved **2× higher detection accuracy**
 
-### 🔹 Exploratory Data Analysis – Customer Dataset
+### 🔹 Customer Dataset EDA
 - Sales dashboard on 50K+ records  
-- Churn analysis improving retention strategy by **12%**
+- Churn analysis improving retention by **12%**
 
 ### 🔹 Olympics Data Analysis (SQL)
-- Advanced SQL queries on 100K+ records  
-- Ranked countries using Window Functions
+- Advanced SQL using CTEs, Joins, Window Functions  
+- Ranked top-performing nations
 
 ### 🔹 Credit Card Fraud Detection
 - Logistic Regression model with **97% accuracy**  
-- Improved pipeline with class-imbalance handling  
-
-*(Projects from CV)* :contentReference[oaicite:4]{index=4}
+- Improved pipeline with class-imbalance handling
 
 ---
 
 ## 🎓 Education
 
 **MVJ College of Engineering**  
-B.E. in Electronics & Communication Engineering  
-📅 Dec 2022 – May 2026  
-⭐ GPA: **8.20 / 10**
-
-:contentReference[oaicite:5]{index=5}
+B.E. Electronics & Communication Engineering  
+📅 2022 – 2026  
+⭐ CGPA: **8.20 / 10**
 
 ---
 
 ## 📜 Certifications
 
-- 📘 Data Structures & Algorithm Design – NPTEL  
-- 📗 Data Science & Machine Learning – Apna College  
-
-:contentReference[oaicite:6]{index=6}
+- Data Structures & Algorithm Design — NPTEL  
+- Data Science & Machine Learning — Apna College
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmarigeri&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmarigeri&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-<a href="mailto:abhishekmarigeri9676@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/abhishekmarigeri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/abhishekmarigeri"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-
-✨ *Thanks for visiting my profile! Let's build something amazing together 🚀*
+✨ *Thanks for visiting my profile — Let's build something amazing together 🚀*
