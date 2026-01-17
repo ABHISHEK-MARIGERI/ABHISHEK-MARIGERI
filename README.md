@@ -22,7 +22,7 @@
   </a>
   
   <a href="Abhishek_Marigeri_CV.pdf">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://github.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/blob/main/Abhi_DS_ML_RESUME.pdf"/>
   </a>
 </p>
 
