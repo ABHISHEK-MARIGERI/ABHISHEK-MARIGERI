@@ -21,10 +21,11 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   
-  <a href="Abhishek_Marigeri_CV.pdf">
-    <img src="https://github.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/blob/main/Abhi_DS_ML_RESUME.pdf"/>
+ <a href="https://github.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/blob/main/Abhi_DS_ML_RESUME.pdf">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-8.20-blue?style=for-the-badge"/>
