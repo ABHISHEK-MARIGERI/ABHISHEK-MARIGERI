@@ -20,11 +20,9 @@
   <a href="https://github.com/ABHISHEK-MARIGERI">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
- <a href="https://github.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/blob/main/Abhi_DS_ML_RESUME.pdf">
+ <a href="https://github.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/blob/main/Abhi_DS_ML_RESUME%20(1).pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
+</a>
 
 
 <p align="center">
