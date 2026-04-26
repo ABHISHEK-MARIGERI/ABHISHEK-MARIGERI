@@ -20,10 +20,11 @@
   <a href="https://github.com/ABHISHEK-MARIGERI">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
-<a href="https://github.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/blob/main/Abhi_DS_ML_RESUME%20(1).pdf" target="_blank">
+
+  <a href="https://github.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/blob/main/Abhi_DS_ML_RESUME%20(1).pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-8.40-blue?style=for-the-badge"/>
@@ -44,50 +45,71 @@ Skilled in **data analysis, visualization, and end-to-end ML pipelines** using P
 ## 🛠️ Skills
 
 ### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
 ### 🤖 Machine Learning  
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-- Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost  
-- Clustering (K-Means), Dimensionality Reduction (PCA)
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-CC2927?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linear%20Regression-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Logistic%20Regression-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Decision%20Trees-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Random%20Forest-795548?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/K--Means-9C27B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PCA-607D8B?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🧠 Deep Learning  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-- FNN, CNNs, RNNs  
-- Transformers (Basics)
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FNN-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CNN-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RNN-673AB7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-FF5722?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🎮 Reinforcement Learning  
-- Q-Learning, SARSA, Deep Q-Networks (DQN)
+<p>
+  <img src="https://img.shields.io/badge/Q--Learning-8BC34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SARSA-FFC107?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DQN-03A9F4?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
 
 ### 📊 Data Analysis & Visualization  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-- Matplotlib, Seaborn, Power BI  
-- EDA, Feature Engineering
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-00BCD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
 ### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
