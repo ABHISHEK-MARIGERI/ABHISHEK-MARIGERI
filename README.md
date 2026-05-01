@@ -150,10 +150,11 @@ Skilled in **data analysis, visualization, and end-to-end ML pipelines** using P
 
 ---
 
-### 🔹 Hybrid Sentiment Analysis *(Deep Learning + NLP)*
-- Built **TF-IDF + PyTorch RNN pipeline on 10K+ IMDB reviews**  
-- Applied **NLTK preprocessing (tokenization, stemming, stopwords)**  
-- Implemented **sequence modeling with padding & truncation**
+### 🔹 SummarAI *(Generative AI + NLP)*
+- Developed a **fine-tuned T5 Transformer** for abstractive text summarization  
+- Improved **contextual relevance and semantic coherence** on dialogue data  
+- Built and deployed a **FastAPI REST API for real-time inference**  
+- Delivered a **production-ready NLP pipeline using Hugging Face + PyTorch**
 
 ---
 
