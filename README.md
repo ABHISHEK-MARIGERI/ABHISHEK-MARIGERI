@@ -21,10 +21,9 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
- <a href="https://raw.githubusercontent.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/main/Abhi_DS_ML_RESUME.pdf" target="_blank">
+<a href="https://docs.google.com/viewerng/viewer?url=https://raw.githubusercontent.com/ABHISHEK-MARIGERI/ABHISHEK-MARIGERI/main/Abhi_DS_ML_RESUME.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
-
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-8.40-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MVJ%20College%20of%20Engineering-orange?style=for-the-badge"/>
